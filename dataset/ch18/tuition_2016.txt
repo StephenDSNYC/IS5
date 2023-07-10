@@ -1,0 +1,20 @@
+Institution	Resident	NonResident
+Univ of Akron (OH)	10662	20496
+Athens State (AL)	6480	12210
+Ball State (IN)	9654	25428
+Bloomsburg U (PA)	10155	21013
+UC Irvine (CA)	15026	41708
+Central State (OH)	6246	8096
+Clarion U (PA)	10470	14090
+Dakota State	8927	11843
+Fairmont State (WV)	6950	14666
+Johnson State (VT) 	11290	23746
+Lock Haven U (PA)	10229	19087
+New College of Florida	6916	29994
+Oakland U (MI)	12064	24540
+U Pittsburgh	18618	29758
+Savannah State (GA)	6340	18542
+Louisiana State	5241	10973
+W Liberty University (WV)	6226	13540
+Central Texas College	2130	6270
+Worcester State (MA)	8157	14237

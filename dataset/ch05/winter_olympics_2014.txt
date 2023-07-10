@@ -1,0 +1,35 @@
+Rank	Bib	Name	Nation	downhill	Slalom
+1st, gold medalist(s)	20	Sandro Viletta	Switzerland	114.90000	50.32
+2nd, silver medalist(s)	21	Ivica Kostelic	Croatia	114.20000	51.37
+3rd, bronze medalist(s)	10	Christof Innerhofer	Italy	114.30000	51.37
+4	9	Kjetil Jansrud	Norway	113.20000	53.02
+5	2	Adam Zampa	Slovakia	116.20000	50.11
+6	24	Bode Miller	United States	114.70000	51.93
+7	4	Ondrej Bank	Czech Republic	113.40000	53.46
+8	16	Carlo Janka	Switzerland	114.40000	52.46
+8	12	Aksel Lund Svindal	Norway	113.90000	52.94
+10	18	Natko Zrncic-Dim	Croatia	115.30000	51.8
+11	28	Jared Goldberg	United States	114.90000	52.39
+12	22	Ted Ligety	United States	115.20000	52.22
+13	14	Matthias Mayer	Austria	113.60000	53.85
+14	13	Romed Baumann	Austria	115.40000	52.23
+15	8	Beat Feuz	Switzerland	114.50000	53.29
+16	6	Martin Vrablik	Czech Republic	116.40000	51.56
+17	26	Adrien Theaux	France	115	53.66
+18	25	Dominik Paris	Italy	114.50000	54.99
+19	30	Krystof Kryzl	Czech Republic	116.70000	53.21
+20	27	Morgan Pridy	Canada	116.20000	53.82
+21	40	Otmar Striedinger	Austria	115.50000	54.98
+22	37	Paul de la Cuesta	Spain	116.20000	55.84
+23	39	Nikola Chongarov	Bulgaria	118.70000	53.73
+24	32	Pavel Trikhichev	Russia	116.60000	56.64
+25	34	Ferran Terra	Spain	117.20000	56.31
+26	42	Igor Zakurdayev	Kazakhstan	117.60000	57.02
+27	44	Igor Laikert	Bosnia and Herzegovina	119.80000	55.94
+28	33	Olivier Jenot	Monaco	119.80000	56.01
+29	31	Cristian Javier Simari Birkner	Argentina	119.60000	56.46
+30	3	Aleksandr Khoroshilov	Russia	116	602.4
+31	46	Marc Oliveras	Andorra	117.10000	61.5
+32	47	Henrik von Appen	Chile	118.50000	60.4
+33	36	Martin Khuber	Kazakhstan	119.40000	60.4
+34	49	Christoffer Faarup	Denmark	118	70.4

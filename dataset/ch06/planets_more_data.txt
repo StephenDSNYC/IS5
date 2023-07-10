@@ -1,0 +1,10 @@
+Planet	Position	distance	year	diameter(Earth=1)	diameter(km)	mass(Earth=1)	mean.distance.from.Sun.(AU)	orbital.eccentricity	mean.orbital.velocity(km/sec)	rotation.period.(Earth.days)	axis.inclination	mean.surface.temp(C)	gravity at equator (Earth=1)	mean.density.(water=1)	atmosphere	moons
+Mercury	1	36.254400	0.24	0.382	4878	0.055	0.39	0.2056	47.89	58.65	0.0	-180 to 430	0.38	5.43	none	0
+Venus	2	66.931200	0.62	0.949	12104	0.815	0.72	0.0068	35.03	-243*	177.4	465	0.9	5.25	CO2	0
+Earth	3	92.960000	1	1	12756	1	1	0.0167	29.79	1	23.45	-89 to 58	1	5.52	N2 + O2	1
+Mars	4	141.29920	1.88	0.532	6787	0.107	1.52	0.0934	24.13	1.03	23.98	-82 to 0	0.38	3.93	CO2	2
+Jupiter	5	483.39200	11.86	11.209	142800	318	5.20	0.0483	13.06	0.41	3.08	-150	2.64	1.33	H2+He	67
+Saturn	6	886.83840	29.46	9.44	120000	95	9.54	0.0560	9.64	0.44	26.73	-170	0.93	0.71	H2+He	62
+Uranus	7	1782.9728	84.01	4.007	51118	15	19.18	0.0461	6.81	-0.72*	97.92	-200	0.89	1.24	H2+He	27
+Neptune	8	2794.3776	164.8	3.883	49528	17	30.06	0.0097	5.43	0.72	28.8	-210	1.12	1.67	H2+He	14
+Pluto	9	3671.9200	248		2374		39.5									

@@ -1,0 +1,1756 @@
+Ethnicity	Admission Decision
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Accepted
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Black/Hispanic	Turned Away
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Accepted
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Wait-listed
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+Asian	Turned Away
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Accepted
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Wait-listed
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away
+White	Turned Away

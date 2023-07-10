@@ -1,0 +1,17 @@
+Rank	Roller Coaster	Park	Location	Drop(ft)	Duration(sec)	Height	Max speed	Max vert angle	Length
+1	Expedition GeForce	Holiday Park	DE	184	75	188	74.6	82	4003
+2	New Texas Giant	Six Flags	TX	147		153	65	79	4200
+3	Intimidator 305	Kings Dominion	VA	300	98	305	93	85	5100
+4	Bizarro	SF New England	MA	221	155	208	77	72	5400
+5	Skyrush	Hersheypark	PA	212	60	200	76	85	3600
+6 	Maverick	Cedar Point	OH	100	150	105	70	95	4450
+7	Kawasemi	Tobu Zoo	JP	98.4	60	102	53	101.7	2477
+8	Shambhala	PortAventura	SP	256	180	249.3	83.3	77.4	5131
+9	Nemesis	Alton Towers	UK	104	80	43	50	40	2349
+10	Iron Rattler	Six Flags	TX	171		179	70	81	3266
+11	Katun	Mirabilandia	IT	148	142	169	65		3937
+12	Piraten	Djurs Sommerland	DK	100	61	105	56	70	2477
+13	Leviathan	Medieval Fair	ON	306	208	306	92	80	5486
+14	Millennium Force	Cedar Point	OH	300	140	310	93	80	6595
+
+

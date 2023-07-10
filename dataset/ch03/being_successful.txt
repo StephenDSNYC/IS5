@@ -1,0 +1,17 @@
+Age.Groups	Response	Proportion(%)
+18-34	One.of.the.most.important.things	18
+18-34	Very.important.but.not.the.most	48
+18-34	Somewhat.important	26
+18-34	Not.important	8
+35-64	One.of.the.most.important.things	7
+35-64	Very.important.but.not.the.most	35
+35-64	Somewhat.important	34
+35-64	Not.important	24
+18-34	One.of.the.most.important.things	11
+18-34	Very.important.but.not.the.most	47
+18-34	Somewhat.important	31
+18-34	Not.important	10
+35-64	One.of.the.most.important.things	9
+35-64	Very.important.but.not.the.most	34
+35-64	Somewhat.important	37
+35-64	Not.important	20

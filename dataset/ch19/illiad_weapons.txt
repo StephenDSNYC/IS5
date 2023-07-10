@@ -1,0 +1,185 @@
+Weapon	Site
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	Limb
+Sword	Limb
+Sword	Limb
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Body
+Sword	Head/neck
+Sword	Head/neck
+Sword	Head/neck
+Sword	Body
+Sword	Body
+Sword	Body
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Sword	
+Arrow	Limb
+Arrow	Limb
+Arrow	Limb
+Arrow	Head/neck
+Arrow	Body
+Arrow	Body
+Arrow	Body
+Arrow	Head/neck
+Arrow	Limb
+Arrow	Limb
+Arrow	Body
+Arrow	Body
+Arrow	
+Arrow	
+Arrow	
+Arrow	
+Arrow	
+Arrow	
+Arrow	
+Arrow	
+Ground/Rock	Limb
+Ground/Rock	Limb
+Ground/Rock	Head/neck
+Ground/Rock	Head/neck
+Ground/Rock	Head/neck
+Ground/Rock	Head/neck
+Ground/Rock	Body
+Ground/Rock	Head/neck
+Ground/Rock	Limb
+Ground/Rock	Limb
+Ground/Rock	Limb
+	Limb

@@ -1,0 +1,57 @@
+Country	Percentage
+Albania	4
+Belgium	24
+Bosnia and Herz	4
+Bulgaria	24
+Croatia	18
+Cyprus	7
+Czech Republic	42
+Denmark	18
+Estonia	24
+Faroe Islands	5
+Finland	11
+France	39
+Germany	19
+Greece	8
+Hungary	19
+Iceland	10
+Ireland	18
+Italy	21
+Kosovo	2
+Latvia	24
+Liechtenstein	21
+Lithuania	20
+Malta	10
+Moldova	5
+Monaco	37
+Montenegro	5
+Netherlands	27
+Norway	5
+Poland	23
+Portugal	16
+Romania	7
+Russian Fed.	15
+Serbia	7
+Slovak Republic	27
+Slovenia	23
+Sweden	9
+Ukraine	11
+United Kingdom	25
+Liechtenstein	21
+Lithuania	20
+Malta	10
+Moldova	5
+Monaco	37
+Montenegro	5
+Netherlands	27
+Norway	5
+Poland	23
+Portugal	16
+Romania	7
+Russian Fed.	15
+Serbia	7
+Slovak Republic	27
+Slovenia	23
+Sweden	9
+Ukraine	11
+United Kingdom	25

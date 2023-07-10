@@ -1,0 +1,148 @@
+Year	Winner	Length	Seconds	Speed	Direction
+1867	Ruthless 	1.625	185	31.621622	Clockwise
+1868	General Duke	1.625	182	32.142857	Clockwise
+1869	Fenian	1.625	184.30000	31.741725	Clockwise
+1870	Kingfisher	1.625	176	33.238636	Clockwise
+1871	Harry Bassett	1.625	179.50000	32.590529	Clockwise
+1872	Joe Daniels	1.625	178.20000	32.828283	Clockwise
+1873	Springbok	1.625	181.70000	32.195927	Clockwise
+1874	Saxon	1.5	159.50000	33.855799	Clockwise
+1875	Calvin	1.5	162.30000	33.271719	Clockwise
+1876	Algerine	1.5	160.50000	33.644860	Clockwise
+1877	Cloverbrook	1.5	166	32.530120	Clockwise
+1878	Duke of Magenta	1.5	163.50000	33.027523	Clockwise
+1879	Spendthrift	1.5	162.70000	33.189920	Clockwise
+1880	Grenada	1.5	167	32.335329	Clockwise
+1881	Saunterer	1.5	167	32.335329	Clockwise
+1882	Forester	1.5	163	33.128834	Clockwise
+1883	George Kinney	1.5	162.50000	33.230769	Clockwise
+1884	Panique	1.5	162	33.333333	Clockwise
+1885	Tyrant	1.5	163	33.128834	Clockwise
+1886	Inspector B	1.5	161	33.540373	Clockwise
+1887	Hanover	1.5	163.50000	33.027523	Clockwise
+1888	Sir Dixon	1.5	160.30000	33.686837	Clockwise
+1889	Eric	1.5	167.30000	32.277346	Clockwise
+1890	Burlington	1.25	127.80000	35.211268	Clockwise
+1891	Foxford	1.25	128.80000	34.937888	Clockwise
+1892	Patron	1.25	137	32.846715	Clockwise
+1893	Comanche	1.125	113.20000	35.777385	Clockwise
+1894	Henry of Navarre	1.125	116.50000	34.763948	Clockwise
+1895	Belmar	1.25	131.50000	34.220532	Clockwise
+1896	Hastings	1.375	144.50000	34.256055	Clockwise
+1897	Scottish Chieftain	1.375	143.30000	34.542917	Clockwise
+1898	Bowling Brook	1.375	152	32.565789	Clockwise
+1899	Jean Bereaud	1.375	143	34.615385	Clockwise
+1900	Ildrim	1.375	141.20000	35.056657	Clockwise
+1901	Commando	1.375	141	35.106383	Clockwise
+1902	Masterman	1.375	142.60000	34.712482	Clockwise
+1903	Africander	1.375	141.70000	34.932957	Clockwise
+1904	Delhi	1.25	126.60000	35.545024	Clockwise
+1905	Tanya 	1.25	128	35.156250	Clockwise
+1906	Burgomaster	1.375	140	35.357143	Clockwise
+1907	Peter Pan	1.375	NA	NA	Clockwise
+1908	Colin	1.375	NA	NA	Clockwise
+1909	Joe Madden	1.375	141.60000	34.957627	Clockwise
+1910	Sweep	1.375	142	34.859155	Clockwise
+1913	Prince Eugene	1.375	138	35.869565	Clockwise
+1914	Luke McLuke	1.375	140	35.357143	Clockwise
+1915	The Finn	1.375	138.40000	35.765896	Clockwise
+1916	Friar Rock	1.375	142	34.859155	Clockwise
+1917	Hourless	1.375	137.80000	35.921626	Clockwise
+1918	Johren	1.375	140.40000	35.256410	Clockwise
+1919	Sir Barton 	1.375	137.40000	36.026201	Clockwise
+1920	Man o' War	1.375	134.20000	36.885246	Clockwise
+1921	Grey Lag	1.375	136.80000	36.184211	counter-clockwise
+1922	Pillory	1.375	138.80000	35.662824	counter-clockwise
+1923	Zev	1.375	139	35.611511	counter-clockwise
+1924	Mad Play	1.375	138.80000	35.662824	counter-clockwise
+1925	American Flag	1.375	136.80000	36.184211	counter-clockwise
+1926	Crusader	1.5	152.20000	35.479632	counter-clockwise
+1927	Chance Shot	1.5	152.40000	35.433071	counter-clockwise
+1928	Vito	1.5	153.20000	35.248042	counter-clockwise
+1929	Blue Larkspur	1.5	152.80000	35.340314	counter-clockwise
+1930	Gallant Fox 	1.5	151.60000	35.620053	counter-clockwise
+1931	Twenty Grand	1.5	149.60000	36.096257	counter-clockwise
+1932	Faireno	1.5	152.80000	35.340314	counter-clockwise
+1933	Hurryoff	1.5	152.60000	35.386632	counter-clockwise
+1934	Peace Chance	1.5	149.20000	36.193029	counter-clockwise
+1935	Omaha 	1.5	150.60000	35.856574	counter-clockwise
+1936	Granville	1.5	150	36	counter-clockwise
+1937	War Admiral 	1.5	148.60000	36.339166	counter-clockwise
+1938	Pasteurized	1.5	149.40000	36.144578	counter-clockwise
+1939	Johnstown	1.5	149.60000	36.096257	counter-clockwise
+1940	Bimelech	1.5	149.60000	36.096257	counter-clockwise
+1941	Whirlaway 	1.5	151	35.761589	counter-clockwise
+1942	Shut Out	1.5	149.20000	36.193029	counter-clockwise
+1943	Count Fleet	1.5	148.20000	36.437247	counter-clockwise
+1944	Bounding Home	1.5	152.20000	35.479632	counter-clockwise
+1945	Pavot	1.5	150.20000	35.952064	counter-clockwise
+1946	Assault	1.5	150.80000	35.809019	counter-clockwise
+1947	Phalanx	1.5	149.40000	36.144578	counter-clockwise
+1948	Citation	1.5	148.20000	36.437247	counter-clockwise
+1949	Capot	1.5	150.20000	35.952064	counter-clockwise
+1950	Middleground	1.5	148.60000	36.339166	counter-clockwise
+1951	Counterpoint	1.5	149	36.241611	counter-clockwise
+1952	One Count	1.5	150.20000	35.952064	counter-clockwise
+1953	Native Dancer	1.5	148.60000	36.339166	counter-clockwise
+1954	High Gun	1.5	150.80000	35.809019	counter-clockwise
+1955	Nashua	1.5	149	36.241611	counter-clockwise
+1956	Needles	1.5	149.80000	36.048064	counter-clockwise
+1957	Gallant Man	1.5	146.60000	36.834925	counter-clockwise
+1958	Cavan	1.5	150.20000	35.952064	counter-clockwise
+1959	Sword Dancer	1.5	148.40000	36.388140	counter-clockwise
+1960	Celtic Ash	1.5	149.20000	36.193029	counter-clockwise
+1961	Sherluck	1.5	149.20000	36.193029	counter-clockwise
+1962	Jaipur	1.5	148.80000	36.290323	counter-clockwise
+1963	Chateaugay	1.5	150.20000	35.952064	counter-clockwise
+1964	Quadrangle	1.5	148.40000	36.388140	counter-clockwise
+1965	Hail To All	1.5	148.40000	36.388140	counter-clockwise
+1966	Amberoid	1.5	149.60000	36.096257	counter-clockwise
+1967	Damascus	1.5	148.80000	36.290323	counter-clockwise
+1968	Stage Door Johnny	1.5	147.20000	36.684783	counter-clockwise
+1969	Arts and Letters	1.5	148.80000	36.290323	counter-clockwise
+1970	High Echelon	1.5	154	35.064935	counter-clockwise
+1971	Pass Catcher	1.5	150.40000	35.904255	counter-clockwise
+1972	Riva Ridge	1.5	148	36.486486	counter-clockwise
+1973	Secretariat	1.5	144	37.500000	counter-clockwise
+1974	Little Current	1.5	149.20000	36.193029	counter-clockwise
+1975	Avatar	1.5	148.20000	36.437247	counter-clockwise
+1976	Bold Forbes	1.5	149	36.241611	counter-clockwise
+1977	Seattle Slew	1.5	149.60000	36.096257	counter-clockwise
+1978	Affirmed	1.5	146.80000	36.784741	counter-clockwise
+1979	Coastal	1.5	148.60000	36.339166	counter-clockwise
+1980	Temperence Hill	1.5	149.80000	36.048064	counter-clockwise
+1981	Summing	1.5	149	36.241611	counter-clockwise
+1982	Conquistador Cielo	1.5	148.20000	36.437247	counter-clockwise
+1983	Caveat	1.5	147.80000	36.535859	counter-clockwise
+1984	Swale	1.5	147.20000	36.684783	counter-clockwise
+1985	Creme Fraiche	1.5	147	36.734694	counter-clockwise
+1986	Danzig Connection	1.5	149.80000	36.048064	counter-clockwise
+1987	Bet Twice	1.5	148.20000	36.437247	counter-clockwise
+1988	Risen Star	1.5	146.40000	36.885246	counter-clockwise
+1989	Easy Goer	1.5	146	36.986301	counter-clockwise
+1990	Go And Go	1.5	147.20000	36.684783	counter-clockwise
+1991	Hansel	1.5	148.10000	36.461850	counter-clockwise
+1992	A.P. Indy	1.5	146.10000	36.960986	counter-clockwise
+1993	Colonial Affair	1.5	150	36	counter-clockwise
+1994	Tabasco Cat	1.5	146.80000	36.784741	counter-clockwise
+1995	Thunder Gulch	1.5	152	35.526316	counter-clockwise
+1996	Editor's Note	1.5	149	36.241611	counter-clockwise
+1997	Touch Gold	1.5	148.80000	36.290323	counter-clockwise
+1998	Victory Gallop	1.5	149.20000	36.193029	counter-clockwise
+1999	Lemon Drop Kid	1.5	147.90000	36.511156	counter-clockwise
+2000	Commendable	1.5	151.20000	35.714286	counter-clockwise
+2001	Point Given	1.5	146.60000	36.834925	counter-clockwise
+2002	Sarava	1.5	149.70000	36.072144	counter-clockwise
+2003	Empire Maker	1.5	148.30000	36.412677	counter-clockwise
+2004	Birdstone	1.5	147.50000	36.610169	counter-clockwise
+2005	Afleet Alex	1.5	148.70000	36.314728	counter-clockwise
+2006	Jazil	1.5	147.90000	36.511156	counter-clockwise
+2007	Rags to Riches	1.5	148.70000	36.314728	counter-clockwise
+2008	Da'Tara	1.5	149.70000	36.072144	counter-clockwise
+2009	Summer Bird	1.5	147.50000	36.610169	counter-clockwise
+2010	Drosselmeyer	1.5	151.60000	35.620053	counter-clockwise
+2011	Ruler on Ice	1.5	150.90000	35.785288	counter-clockwise
+2012	Union Rags	1.5	150.40000	35.904255	counter-clockwise
+2013	Palace Malice	1.5	150.70000	35.832780	counter-clockwise
+2014	Tonalist	1.5	148.50000	36.363636	counter-clockwise
+2015	American Pharoah	1.5	146.70000	36.809816	counter-clockwise

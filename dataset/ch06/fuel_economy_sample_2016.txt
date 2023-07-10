@@ -1,0 +1,36 @@
+Division	Car.line	Displacement	CombinedMPG
+Aston Martin Lagonda Ltd	Vantage GT	4.7	16
+Jaguar	F-TYPE S Convertible Manual	3	18
+Mercedes-Benz	AMG SL 63	5.5	19
+Porsche	Boxster GTS	3.4	25
+Porsche	911 Carrera 4 Cabriolet	3.4	22
+Porsche	911 Carrera S	3.8	22
+Chevrolet	SPARK	1.4	34
+Mercedes-Benz	E 400 4MATIC (coupe)	3	23
+BMW	328d xDrive	2	34
+Cadillac	ATS	2	23
+Ford	Fiesta ST FWD	1.6	29
+Ford	Focus FWD FFV	2	30
+Kia Motors Corporation	Forte Koup	1.6	25
+Volkswagen	Beetle	2	26
+BMW	535d	3	30
+Buick	LACROSSE	3.6	21
+Dodge	Dart	1.4	32
+Lincoln	MKZ HYBRID FWD	2	40
+Mazda	MAZDA3 5-Door	2	33
+Nissan	ALTIMA	2.5	31
+Toyota	COROLLA	1.8	32
+BMW	750i	4.4	20
+Chrysler	300	3.6	23
+Chevrolet	SONIC 5	1.8	30
+Subaru	IMPREZA WAGON	2	31
+Nissan	FRONTIER 2WD	4	19
+Chevrolet	K15 SILVERADO 4WD	4.3	19
+TOYOTA	TUNDRA 4WD	4.6	16
+GMC	G2500 SAVANA 2WD PASS MDPV	6	13
+GMC	CANYON CAB CHASSIS 2WD	3.6	16
+GMC	TERRAIN FWD	3.6	20
+Ford	ESCAPE AWD	2	23
+Kia Motors Corporation	Sorento AWD	3.3	19
+Lincoln	MKX AWD	3.7	19
+Land Rover	Range Rover LWB	3	19

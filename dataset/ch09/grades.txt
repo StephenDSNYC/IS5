@@ -1,0 +1,74 @@
+HW Total	Midterm 1	Midterm #2	Midterm #3	Final	Name
+87	78	42	50	123	Peter N.
+139	65	84	50	110	Daniel R.
+56	71	87	0	139	Karen P.
+74	85	66	57	137	Samuel P.
+82	86	75	70	131	Brittany W.
+137	70	77	67	159	Robert A.
+92	84	81	81	152	Seth C.
+75	83	96	54	155	 Leslie F.
+151	78	43	80	150	Nicholas O.
+158	62	87	70	151	 Blake C.
+129	74	89	66	159	 Sarah
+175	67	91	64	154	 Melanie
+143	69	92	92	144	 Jonathan T.
+183	88	83	55	153	Cain R.
+183	82	75	59	166	 Thomas E.
+161	70	88	70	162	 James J.
+166	67	95	70	155	Matt A.
+88	81	97	49	172	 Samantha J.
+178	93	75	73	147	Matthew C.
+158	75	91	61	170	 Angus L.H.
+185	77	98	79	142	 Nicholas J.
+168	84	75	84	155	Michael L.
+176	87	87	69	161	Samuel L.
+196	70	92	65	163	Calvin H.
+157	87	75	70	170	Dennis A.
+173	87	87	88	151	 Melanie J.
+98	85	84	85	178	Thomas S.
+69	93	96	93	165	Michael A.
+168	49	89	77	177	 Daniel C.
+146	89	93	83	172	 Christopher D.
+173	84	95	70	173	Julie D.
+185	89	89	81	166	John S.
+155	82	85	82	183	Nathan M.
+138	82	99	78	177	 Daniel A.
+139	89	86	73	184	Michael J.
+178	86	89	90	169	 Trevor P.
+191	89	99	80	153	 Sharon
+100		100	94	176	 Stephen J.
+180	91	83	69	177	 Katharine A.
+140	82	98	94	170	 Zachary
+135	87	99	79	179	Harold B.
+146	83	90	88	181	Hayley T.
+184	85	94	90	170	 Reed M.
+158	88	91	72	184	 Rudolph M.
+189	82	97	82	174	 Mary E.
+185	92	95	67	172	Ophelia A.
+179	87	83	93	174	 Geoffrey
+181	90	95	89	168	Alexander C.
+148	79	95	82	189	Reid S.
+181	90	92	82	180	Richard A.
+175	88	91	90	179	Evan L.
+191	89	95	90	171	 Chloe E.
+179	88	92	55	186	 Lee W.
+165	96	90	85	176	Meredith A.
+196	86	95	88	178	Paul T.
+159	87	98	90	183	Ann O.
+185	91	97	76	180	 Adrian A.
+168	84	96	87	187	Ya
+187	90	95	73	185	Vladimir L.
+198	93	97	74	177	Nikita K.
+185	94	96	94	178	 Megan L.
+191	90	99	81	186	 David J.
+192	90	97	91	185	 Alexander S.
+180	82	93	96	190	 Daniel M.
+195	90	98	83	188	Hamill E.
+183	93	99	94	185	 Edward R.
+186	92	97	93	187	 Eileen S.
+172	90	99	94	192	 Charles N
+198	89	98	90	190	 Navin
+172	94	97	98	189	 Nicholas S.
+200	96	99	83	188	Opie B.
+191	97	96	92	188	Jeffrey A.
+197	96	100	98	188	William J.

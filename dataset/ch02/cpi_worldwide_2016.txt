@@ -1,0 +1,498 @@
+City	Consumer.Price.Index	Rent.Index	Consumer.Price.Plus.Rent.Index	Groceries.Index	Restaurant.Price.Index	Local.Purchasing.Power.Index
+Zurich, Switzerland	130.99	64.16	98.87	131.72	131.77	184.86
+Basel, Switzerland	129.94	47.59	90.36	132.76	126.86	165.65
+Geneva, Switzerland	129.07	74.08	102.64	124.09	130.68	181.03
+Zug, Switzerland	123.44	63.29	94.53	122.64	117.97	211.31
+Bern, Switzerland	121.64	50.71	87.55	122.63	118.26	178.08
+Lausanne, Switzerland	119.07	52.82	87.23	122.6	118.1	168.51
+Lugano, Switzerland	116.63	45.27	82.34	111.8	117.18	167.31
+Tromso, Norway	113.85	40.07	78.39	102.11	131.26	119.89
+Nassau, Bahamas	108.23	37.93	74.44	104.35	92.54	54.87
+Trondheim, Norway	108.05	37.07	73.94	103.14	111.31	113.74
+Stavanger, Norway	107.01	43.69	76.58	101	118.45	129.44
+San Francisco, CA, United States	103.36	121.64	112.15	122.07	90.89	105.83
+Bergen, Norway	102.62	40.63	72.83	96.69	106.05	121.65
+New York, NY, United States	100	100	100	100	100	100
+Honolulu, HI, United States	99.72	64.46	82.78	115	84.75	99.75
+Reykjavik, Iceland	96.99	38.23	68.75	93.46	95.48	97.14
+Darwin, Australia	96.41	47.58	72.94	98.76	100.86	145.69
+Aberdeen, United Kingdom	96.3	40.71	69.58	76.37	114.03	116.22
+Washington, DC, United States	96.18	72.17	84.64	89.47	90.03	119.13
+Oslo, Norway	95.98	42.08	70.08	86	111.97	126.32
+London, United Kingdom	94.82	85.48	90.33	73.37	101.34	94.85
+Anchorage, AK, United States	93.85	42.5	69.17	106.07	79.14	163.81
+Brighton, United Kingdom	93.62	48.88	72.12	84.86	90.89	95.65
+Allentown, PA, United States	92.69	34.27	64.61	100.49	73.23	83.96
+Albany, NY, United States	90.13	28.97	60.74	106.24	80.47	152.24
+Copenhagen, Denmark	89.28	39.64	65.42	74.75	102.22	126.12
+Stamford, CT, United States	89.25	64.2	77.21	96.64	82.15	148.8
+Queens, NY, United States	89.07	55.4	72.89	93.65	77.07	144.77
+Las Vegas, NV, United States	88.05	30.01	60.16	91.61	83.55	116.52
+Kuwait City, Kuwait	87	43.57	66.13	108.23	43.89	117.09
+Brooklyn, NY, United States	86.85	81.81	84.43	84.17	94.76	115.33
+Liverpool, United Kingdom	86.4	26.66	57.69	81.13	75.69	115.43
+Fort Collins, CO, United States	86.12	39	63.48	93.93	78.88	94.99
+Exeter, United Kingdom	85.92	32.71	60.35	72.63	83.75	88.68
+Cambridge, United Kingdom	85.46	49.67	68.26	71.15	98.88	126.51
+Oxford, United Kingdom	85.31	55.73	71.09	76.05	87.8	114.03
+Chicago, IL, United States	85.14	53.41	69.89	87.03	85.01	127.65
+Tokyo, Japan	85.09	49.63	68.05	91.08	53.33	113.5
+Perth, Australia	85.08	41.01	63.9	82.26	94.34	133.23
+Manchester, United Kingdom	84.8	34.22	60.49	80.78	82.81	99.03
+Boston, MA, United States	84.7	75.31	80.19	86.18	82.81	124.49
+Luxembourg, Luxembourg	84.43	48.92	67.37	73.44	89.85	156.61
+Southampton, United Kingdom	84.35	32.97	59.66	74.4	85.96	126.92
+Odense, Denmark	84.28	20.85	53.8	72.02	98.93	142.59
+Anaheim, CA, United States	83.81	49.63	67.38	89.61	80.49	140.75
+Singapore, Singapore	83.67	73.88	78.97	75.83	53.75	110.5
+Philadelphia, PA, United States	83.57	46.98	65.98	89.56	74.61	108.23
+Stockholm, Sweden	83.5	37.13	61.21	74.49	88.39	130.34
+Seattle, WA, United States	83.22	59.97	72.05	83.63	80.14	147.45
+Fairfax, VA, United States	83.09	53.14	68.7	79.53	77.19	155.51
+Bristol, United Kingdom	83.07	40.2	62.46	75.03	90.02	113.5
+Akron, OH, United States	83.02	20.26	52.86	97.18	62.02	116.32
+Irvine, CA, United States	82.83	62.08	72.86	88.86	69.44	157.58
+Kyoto, Japan	82.7	25.55	55.23	96.38	43.15	96.22
+Milton Keynes, United Kingdom	82.17	39.98	61.89	73.32	84.95	112.15
+Grand Rapids, MI, United States	81.85	28.49	56.21	90.8	65.38	141.69
+Busan, South Korea	81.74	17.71	50.97	87.93	52.56	122.1
+Paris, France	81.61	45.98	64.49	77.34	80.31	112.52
+Hong Kong, Hong Kong	81.48	82.57	82	88.8	50.73	102.32
+Reading, United Kingdom	81.08	44.83	63.66	62.03	92.06	110.41
+Minneapolis, MN, United States	81.06	44.38	63.43	90.16	68.46	142.26
+Tel Aviv-yafo, Israel	81.06	38.35	60.53	70.08	89.2	92.22
+Sydney, Australia	80.85	59.42	70.55	75.24	70.47	136.61
+Pittsburgh, PA, United States	80.65	36.51	59.44	84.88	69.19	122.06
+West Palm Beach, FL, United States	80.62	41.4	61.77	83.42	69.97	145.16
+Asheville, NC, United States	80.59	37.49	59.88	91.57	64.01	128.96
+Osaka, Japan	80.55	21.78	52.31	85.68	50.83	109.86
+Baltimore, MD, United States	80.39	48.39	65.01	85.79	74.01	150.11
+Leicester, United Kingdom	80.39	25.09	53.81	67.1	86.26	113.34
+Auckland, New Zealand	80.38	37.88	59.96	74.79	68.43	118.81
+Fort Lauderdale, FL, United States	80.35	50.18	65.85	85.79	67.56	144.02
+Dublin, Ireland	80.34	46.9	64.27	66.64	84.57	120.17
+Fort Worth, TX, United States	80.24	34.71	58.36	84.19	60.36	172.28
+Arhus, Denmark	80.21	31.37	56.74	61.9	95.12	137.81
+Wellington, New Zealand	80.16	34.4	58.17	78.57	70.91	118.04
+Bordeaux, France	80.04	20.57	51.46	79.29	74.58	89.65
+Portland, OR, United States	80.04	48.59	64.92	84.28	71.4	121.98
+Miami, FL, United States	79.98	54.55	67.76	77.71	83.05	132.1
+Gent, Belgium	79.71	25.28	53.56	78.2	77.87	102.02
+Helsinki, Finland	79.61	36.32	58.81	70.25	86.45	129.76
+Des Moines, IA, United States	79.53	31.28	56.34	89.14	66.02	101.96
+Orlando, FL, United States	79.47	39.72	60.37	88.04	75.16	154.5
+Wollongong, Australia	79.45	35.14	58.16	86.09	65.27	124.46
+Leeds, United Kingdom	79.18	29.4	55.25	70.84	82.64	128.58
+Cleveland, OH, United States	79.08	28.35	54.7	79.74	73.34	140.42
+Brussels, Belgium	79.07	30.77	55.86	73.9	83.45	114.79
+Boulder, CO, United States	78.78	54.35	67.04	76.69	70.18	145.07
+Lyon, France	78.66	24.05	52.41	78.51	65.62	115.32
+Aalborg, Denmark	78.61	20.37	50.62	66.34	88.74	141.29
+Charleston, SC, United States	78.54	49.98	64.81	87.22	76.24	133.55
+Sacramento, CA, United States	78.4	37.51	58.75	76.57	70.52	136.38
+Seoul, South Korea	78.33	47.75	63.63	91.92	44.74	116.87
+Denver, CO, United States	78.17	52.33	65.75	78.37	75.37	127.51
+Nice, France	78.16	25.28	52.74	65.96	84.99	125.76
+Glasgow, United Kingdom	78.03	28.35	54.16	66.14	84.72	135.98
+Wichita, KS, United States	78.01	21.15	50.68	90.23	61.42	120.68
+New Orleans, LA, United States	77.98	37.09	58.33	78.7	77.66	111.29
+Adelaide, Australia	77.89	35.16	57.36	72.77	77.75	163.1
+Rehovot, Israel	77.8	22.06	51.01	62.29	82.16	109.24
+Los Angeles, CA, United States	77.78	63.73	71.03	76.54	78.83	127.13
+Turku, Finland	77.69	22.7	51.26	65.81	80.08	124.25
+Buffalo, NY, United States	77.57	26.44	53	81.06	73.06	144.04
+Naples, FL, United States	77.5	33.52	56.37	81.77	69.58	139.76
+Cairns, Australia	77.22	27.9	53.52	77.17	75.61	105.8
+Christchurch, New Zealand	77.16	31.39	55.16	71.08	81.41	102.09
+San Jose, CA, United States	77.11	80.71	78.84	81	70.26	169.92
+Jersey City, NJ, United States	77.09	61.6	69.65	77.15	68.12	200.03
+Cardiff, United Kingdom	76.96	29.68	54.24	64.06	82.94	155.62
+Harrisburg, PA, United States	76.95	25.27	52.11	80.91	64.73	188.12
+Hamilton, New Zealand	76.62	21.74	50.24	65.27	74.28	143.14
+Brisbane, Australia	76.52	42.91	60.37	72.9	77.16	140.66
+Coventry, United Kingdom	76.34	33.99	55.99	62.93	78.84	123.46
+Charlotte, NC, United States	76.32	37.32	57.58	82.16	65.76	158.86
+Amsterdam, Netherlands	76.29	46.95	62.19	59.18	84.79	122.04
+Antwerp, Belgium	76.23	25.93	52.06	68.63	90.07	107.09
+Cincinnati, OH, United States	76.23	32.43	55.18	74.83	72.93	143.43
+Canberra, Australia	76.2	43.28	60.38	75.53	72.67	168.69
+Durham, NC, United States	76.17	33.1	55.47	83.78	69.21	197.24
+San Diego, CA, United States	76.17	57.2	67.05	76.09	77.39	123.22
+Syracuse, NY, United States	76.14	22.35	50.29	75.92	65.84	83.16
+Hobart, Australia	75.97	28.44	53.13	75.83	74.32	127.41
+Knoxville, TN, United States	75.84	29.36	53.5	91.38	60.95	128.04
+Espoo, Finland	75.82	32.19	54.85	63.62	82.56	114.49
+Hartford, CT, United States	75.77	37.56	57.41	80.45	71.41	172.8
+St. John's, NL, Canada	75.7	30.66	54.06	83.3	71.54	98.8
+Atlanta, GA, United States	75.7	38.05	57.6	76.89	70.45	139.39
+Santa Barbara, CA, United States	75.62	61.64	68.9	78.21	73.27	144.59
+Birmingham, United Kingdom	75.52	30.92	54.09	64.48	82.76	124.51
+Melbourne, Australia	75.35	42.17	59.4	70.62	69.96	153.2
+Gold Coast, Australia	75.21	34.8	55.79	73.27	69.19	141.98
+Houston, TX, United States	75.19	45.62	60.98	77.34	68.85	138.45
+Edinburgh, United Kingdom	74.92	34.87	55.67	61.11	82.69	131.35
+Uppsala, Sweden	74.82	24.18	50.48	64.6	76.68	131.44
+Plymouth, United Kingdom	74.79	28.18	52.39	63.15	72.59	134.32
+Nottingham, United Kingdom	74.78	26.37	51.52	67.97	70.88	165.13
+Utrecht, Netherlands	74.76	31.6	54.02	61.64	82.19	118.63
+Spokane, WA, United States	74.66	25.81	51.19	74.79	81.11	115
+Newcastle, Australia	74.57	41.24	58.55	78.46	70.23	144.34
+Greensboro, NC, United States	74.53	25.98	51.2	82.67	61.24	203.07
+Newcastle Upon Tyne, United Kingdom	74.53	25.94	51.18	63.6	84.89	138.24
+Dunedin, New Zealand	74.39	21.61	49.02	69.93	69.2	99.89
+Cork, Ireland	74.09	31.64	53.69	66.14	76.9	137.15
+Venice, Italy	74.01	26.62	51.24	63.01	82.16	100.31
+Tauranga, New Zealand	74.01	26.84	51.34	67.07	77.42	94.11
+Jacksonville, FL, United States	73.95	31.94	53.76	77.27	69.34	137.8
+Cologne, Germany	73.86	25.5	50.62	59.05	70.11	136.96
+Milan, Italy	73.85	36.79	56.04	67.13	81.51	93.29
+Northampton, United Kingdom	73.79	28.61	52.08	65.69	79.98	139.8
+Indianapolis, IN, United States	73.55	28.9	52.09	77.98	58.64	119.09
+Leiden, Netherlands	73.4	28.69	51.91	65.13	80.28	154.24
+Riverside, CA, United States	73.4	36.5	55.66	70.69	64.89	155.5
+Jerusalem, Israel	73.28	29	52	61.46	76.97	104.78
+Cagliari, Italy	73.28	20.74	48.03	64.22	72.62	76.27
+Madison, WI, United States	73.28	36.44	55.57	77.21	65.49	150.14
+Haifa, Israel	72.99	20.37	47.7	62.37	74.55	112.89
+The Hague, Netherlands	72.97	32.77	53.65	57.53	83.71	137.9
+Jyvaskyla, Finland	72.86	23.23	49.01	62.79	74.35	146.56
+Frankfurt, Germany	72.82	31.14	52.79	60.95	67.28	146.15
+Vancouver, WA, United States	72.67	31.1	52.69	76.76	58.86	152.22
+Pisa, Italy	72.56	20.95	47.76	68	77.46	80.95
+Tampa, FL, United States	72.44	37.19	55.5	75.21	73.74	141.77
+Dallas, TX, United States	72.42	39.47	56.58	71.65	68.41	159.75
+Toulouse, France	72.36	24.61	49.41	69.17	75.64	117.55
+Raleigh, NC, United States	72.23	34.08	53.9	74.35	72.62	146.91
+Hamburg, Germany	72.18	31.48	52.62	60.24	64.38	151.98
+Burlington, Canada	72.12	27.84	50.84	77.51	62.57	124.55
+Detroit, MI, United States	71.88	31.08	52.27	74.59	57.21	196.96
+Galway, Ireland	71.86	28.17	50.86	62.43	72.94	144.72
+Lexington, KY, United States	71.82	28.38	50.94	65.87	62.53	151.55
+Mannheim, Germany	71.18	18.13	45.69	53.71	68.01	170.1
+San Juan, Puerto Rico	71.18	25.32	49.14	70.02	63.93	101.68
+Munich, Germany	71.16	38.1	55.27	58.68	67.72	153.48
+Saskatoon, Canada	71.15	26.38	49.63	79.56	53.57	113.4
+Gothenburg, Sweden	71.07	25.04	48.95	64.2	73.38	140.57
+Tampere, Finland	71.04	22.95	47.93	63.29	69.63	135.05
+Oshawa, Canada	70.98	24.55	48.67	76.7	57.65	93.37
+Rochester, NY, United States	70.96	31.29	51.89	69.83	73.73	140.7
+Saint Louis, MO, United States	70.95	27.95	50.29	75	60.45	138.84
+Heidelberg, Germany	70.84	26.84	49.7	61.17	61.51	165.12
+Phoenix, AZ, United States	70.84	31.1	51.74	70.71	64.84	199.38
+Huntsville, AL, United States	70.79	20.45	46.6	73.57	68.03	150.98
+Edmonton, Canada	70.76	28.55	50.47	70.57	65.63	128.64
+Bergamo, Italy	70.66	18.85	45.76	57.61	77.85	109.27
+Calgary, Canada	70.57	32.58	52.31	70.93	69.67	162.46
+Saint Paul, MN, United States	70.56	34.86	53.4	71.31	57.74	118.41
+Lille, France	70.52	24.04	48.18	60.02	73.1	129.41
+Oulu, Finland	70.49	19.67	46.07	60.24	74.71	123.67
+Ann Arbor, MI, United States	70.37	38.43	55.02	69.72	61.69	158.08
+Austin, TX, United States	70.23	50.35	60.67	67.42	69.53	139.16
+Greenville, SC, United States	70.13	31.15	51.4	73.61	61.5	173.46
+Dubai, United Arab Emirates	70.12	77.13	73.49	60.46	63.73	129.65
+Accra, Ghana	70.11	57.22	63.91	64.25	49.39	16.14
+Belfast, United Kingdom	70.1	25.88	48.85	62.71	78.75	113.55
+Linz, Austria	70.04	24.79	48.29	67.03	68.5	118.33
+Rome, Italy	70.02	38.93	55.08	60.87	75.03	89.49
+Doha, Qatar	70	75.13	72.47	59.45	69.85	144.01
+Louisville, KY, United States	69.84	24.85	48.22	83.32	54.88	130.71
+Milwaukee, WI, United States	69.82	29.91	50.64	70.99	65.94	148.04
+Columbus, OH, United States	69.81	34.38	52.78	71.01	64.11	133.01
+Treviso, Italy	69.66	16.98	44.34	56.89	78.79	116.66
+Florence, Italy	69.34	26.86	48.92	54.13	78.26	93.69
+Iowa City, IA, United States	69.3	31.2	50.99	67.06	63.93	150.36
+Virginia Beach, VA, United States	69.16	37.85	54.11	71.84	66.22	148.28
+Dusseldorf, Germany	68.97	29.93	50.21	58.24	60.65	145.79
+Malmo, Sweden	68.72	24.49	47.47	64.85	64.82	143.85
+Nantes, France	68.68	20.37	45.46	60.57	71.01	142.01
+Rotterdam, Netherlands	68.6	29.11	49.62	47.76	77.82	113.9
+Victoria, Canada	68.57	28.13	49.13	74.41	59.88	131.38
+Red Deer, Canada	68.55	25	47.62	67.01	66.4	116.72
+Halifax, Canada	68.48	24.17	47.18	72.72	63.83	127.12
+Stuttgart, Germany	68.43	26.98	48.51	57.83	60.99	166.58
+Naples, Italy	68.36	24.38	47.22	62.64	69.22	59.82
+Padova, Italy	68.12	20.28	45.13	56.99	70.71	97.41
+Turin, Italy	68.12	20.7	45.33	59.29	75.46	99.57
+Ad Dammam, Saudi Arabia	68.02	13.5	41.81	83.93	32.15	129.52
+Gainesville, FL, United States	67.99	25.9	47.76	69.1	57.12	119.1
+Salem, OR, United States	67.96	26.71	48.14	68.27	59.91	121.22
+Buenos Aires, Argentina	67.84	21.16	45.41	54.15	67.29	73.78
+Nashville, TN, United States	67.82	43.28	56.02	62.76	72.11	166.17
+Trieste, Italy	67.71	17.13	43.4	57.92	79.37	118.24
+London, Canada	67.62	20.77	45.1	68.08	60.09	138.33
+Kansas City, MO, United States	67.52	28.77	48.9	66.95	65.32	154.44
+Salt Lake City, UT, United States	67.4	32.53	50.64	68.65	62.93	186.73
+Quebec City, Canada	67.33	17.1	43.19	71.12	57.98	136.33
+Regina, Canada	67.17	27.84	48.27	70.48	59.18	148.44
+Kingston, Jamaica	66.73	16.96	42.81	62.34	40.33	41.67
+Ulaanbaatar, Mongolia	66.51	35.36	51.54	67.98	35.96	20.62
+Beirut, Lebanon	66.37	42.84	55.06	49.1	68.66	65.42
+Berlin, Germany	66.34	25.97	46.94	56.71	55.46	122.7
+Boise, ID, United States	66.21	27.02	47.37	66.74	67.01	128.3
+Bologna, Italy	66.1	23.02	45.4	57.78	74.1	120.01
+Mississauga, Canada	65.94	30.24	48.78	59.53	55.79	97.94
+Vienna, Austria	65.87	31.86	49.53	61.57	61.04	119.81
+Toronto, Canada	65.86	35.51	51.28	63.31	63.77	138.99
+Eugene, OR, United States	65.76	27.55	47.4	70.13	53.74	167.77
+Nuremberg, Germany	65.49	20.92	44.07	51.7	64.45	154.08
+Sliema, Malta	65.46	25	46.01	58.84	71.22	76.96
+Brampton, Canada	65.17	24.91	45.82	60.33	65.76	129.49
+Oklahoma City, OK, United States	65.08	26.74	46.65	71.01	58.99	137.45
+Vancouver, Canada	65.01	40.55	53.25	66.45	60.26	121.65
+Nicosia, Cyprus	64.99	13.57	40.28	60.4	60.79	76.32
+Savannah, GA, United States	64.81	26.58	46.44	63.34	76.62	153.93
+Tucson, AZ, United States	63.94	21.59	43.59	65.16	60.12	194.49
+Windsor, Canada	63.92	18.48	42.08	58.75	53.46	154.85
+Albuquerque, NM, United States	63.81	24.66	45	64.55	63.69	153.15
+Ottawa, Canada	63.75	27.48	46.32	61.9	63.82	147.3
+Marseille, France	63.71	21.56	43.45	58.64	66.29	122.43
+Winnipeg, Canada	63.64	23.49	44.34	63.5	54.58	133.14
+Omaha, NE, United States	63.6	28.22	46.6	64.34	54.44	145.32
+San Antonio, TX, United States	63.57	31.83	48.32	66.45	56.4	146.79
+Tulsa, OK, United States	63.24	30.43	47.47	66.49	57.32	155.99
+Graz, Austria	63.15	19.59	42.21	52.79	60.69	144.79
+Barcelona, Spain	62.86	25.5	44.91	54.05	60.2	111.05
+Irbil, Iraq	62.78	23.49	43.9	46.6	59.64	41.29
+Leipzig, Germany	62.72	16.95	40.72	51.1	60.25	102.55
+Palermo, Italy	62.46	16.1	40.18	53.4	58.06	77.88
+Bilbao, Spain	62.34	24.49	44.15	56.14	65.36	115.57
+Surrey, Canada	62.28	27.57	45.6	65.15	60.04	89.1
+Aachen, Germany	61.88	21.31	42.38	50.92	56.63	149.09
+Montreal, Canada	61.69	22.31	42.76	62.73	58.01	130.67
+Abu Dhabi, United Arab Emirates	61.47	69.35	65.26	56.39	58.65	158.23
+Madrid, Spain	60.79	26.97	44.54	50.43	58.68	101.77
+Catania, Italy	60.51	13.3	37.82	50.7	55.25	83.54
+Shanghai, China	60.49	37.99	49.68	68.01	44.06	83.07
+San Jose, Costa Rica	60.39	19.5	40.74	61.28	48.87	60.81
+Bahrain, Bahrain	60.24	37.84	49.47	59.39	59.3	92.3
+Kitchener, Canada	59.98	23.25	42.33	54.22	62.21	169.35
+Paphos, Cyprus	59.7	10.35	35.98	48.51	55.49	89.56
+Moncton, Canada	59.61	17.26	39.26	61.73	54.81	156.05
+Dresden, Germany	59.47	20.01	40.51	46.07	50.39	151.11
+Panama City, Panama	59.35	34.41	47.36	59.82	57.29	44.23
+Bremen, Germany	58.75	19.61	39.94	42.56	63.66	173.75
+Sharjah, United Arab Emirates	57.92	29.81	44.41	50.54	48.7	141.46
+Dar Es Salaam, Tanzania	57.5	31.32	44.92	51.37	41.28	41.85
+Alicante, Spain	57.2	15.31	37.07	42.11	49.3	109.27
+Reno, NV, United States	57.1	25.83	42.07	51.26	56.64	140.98
+Montevideo, Uruguay	57.04	16.34	37.48	47.61	51.99	52.04
+Male, Maldives	56.97	29.7	43.86	60.46	35.86	35.91
+Palma De Mallorca, Spain	56.89	19.06	38.71	49.46	56.82	94.29
+Lagos, Nigeria	56.87	30	43.96	48.45	44.93	42.58
+Taipei, Taiwan	56.67	18.4	38.28	64.36	26.76	126.06
+Shenzhen, China	56.42	36.15	46.68	62.72	35.36	102.79
+Hamilton, Canada	56.01	19.83	38.63	54.44	51.74	161.52
+Athens, Greece	56	11.24	34.49	45.72	58.11	64.66
+Limassol, Cyprus	55.96	14.92	36.24	44.56	67.39	111.74
+Muscat, Oman	55.59	28.32	42.48	51.12	46.95	157.53
+Lusaka, Zambia	55.45	31.86	44.11	40.92	31.9	149.93
+Harare, Zimbabwe	55.18	15.83	36.27	42.79	48.31	34.86
+Amman, Jordan	55.13	13.41	35.08	44.67	53.38	50.3
+Santo Domingo, Dominican Republic	55.12	15.41	36.04	50.18	43.59	26.56
+Heraklion, Greece	54.05	7.82	31.83	46.92	52.67	112.82
+Bandar Seri Begawan, Brunei	53.98	15	35.25	49.1	33.16	75.31
+Phnom Penh, Cambodia	53.3	18.38	36.52	58.24	25.79	19.98
+Ljubljana, Slovenia	53	16.64	35.52	42.49	44.58	91.62
+Yangon, Myanmar	52.96	20.19	37.21	51.27	26.47	28.27
+Sevilla, Spain	52.8	18.58	36.35	44.67	51.54	98.84
+Valencia, Spain	52.56	14.79	34.41	42.9	53.2	135.87
+Maribor, Slovenia	52.29	10.32	32.12	42.77	37.4	82.4
+Thessaloniki, Greece	52.04	9.09	31.4	42.69	55.7	82.69
+Malaga, Spain	51.9	17.1	35.17	43.63	47.25	101.91
+Santa Cruz De Tenerife, Spain	51.74	14.6	33.89	43.76	44.91	93.42
+Beijing, China	51.39	43.64	47.67	53.75	32.85	85.73
+Patras, Greece	51.24	8.4	30.65	40.89	53.88	103.55
+Rijeka, Croatia	51.01	9.46	31.04	43.37	40.37	56.92
+Baghdad, Iraq	50.99	16.68	34.5	39.61	38.71	59.94
+Kaohsiung, Taiwan	50.94	10.23	31.37	60.2	22.25	79.58
+Guayaquil, Ecuador	50.9	11.37	31.9	46.87	35.11	43.42
+Lisbon, Portugal	50.87	19.86	35.97	42.73	43.12	76.2
+Jeddah (Jiddah), Saudi Arabia	50.62	14.14	33.09	42.83	31.38	133.56
+Tallinn, Estonia	50.52	15.53	33.71	39.48	48.13	78.76
+Riyadh, Saudi Arabia	50.05	16.64	33.99	43.58	31.86	184.09
+Bratislava, Slovakia	49.76	18.91	34.94	45.64	38.23	72.02
+Porto, Portugal	49.33	14.92	32.79	40.68	38.64	80.28
+Manama, Bahrain	49.31	31.32	40.66	44.45	56.82	107.48
+Corfu, Greece	49.08	7.83	29.26	38.78	53	112.69
+Zagreb, Croatia	48.97	11.82	31.12	41.44	37.95	70.89
+Phuket, Thailand	48.84	14.6	32.38	53.12	29.77	45.31
+Bangkok, Thailand	48.68	24.02	36.83	54.75	24.54	50.32
+Istanbul, Turkey	48.68	14.92	32.46	43.5	33.34	60.18
+Cuenca, Ecuador	48.67	12.41	31.24	56.58	26.48	48.28
+Makati, Philippines	48.66	29.2	39.31	52.22	26.9	44.69
+Split, Croatia	48.56	10.56	30.3	40.88	39.34	63.57
+Aveiro, Portugal	48.43	11.52	30.69	42.22	36.14	65.22
+Coimbra, Portugal	48.39	13.21	31.48	36.2	39.48	69.42
+Riga, Latvia	47.79	13	31.07	35.8	41.01	62.99
+Tartu, Estonia	47.45	10.43	29.66	39.21	42.75	81.98
+Kosice, Slovakia	47.36	16.13	32.35	42.77	31.89	66.52
+Vilnius, Lithuania	46.75	14.91	31.45	38.21	37.91	62.2
+Santiago, Chile	46.09	15.92	31.59	41.09	38.77	68.85
+Tashkent, Uzbekistan	45.78	12.82	29.94	40.77	29.88	29.75
+Braga, Portugal	45.49	11.28	29.05	36.62	36.12	73.26
+Las Palmas, Spain	45.47	14.33	30.51	39.17	48.45	98.52
+Addis Ababa, Ethiopia	45.38	21.5	33.9	41.19	24.22	18.82
+Guatemala City, Guatemala	45.26	13.88	30.18	41.05	34.99	53.07
+Nairobi, Kenya	45.1	19.04	32.57	40.22	35.58	25.05
+Rio De Janeiro, Brazil	45	20.01	32.99	32.15	38.55	44.57
+Osijek, Croatia	44.48	6.54	26.25	38.16	28.48	64.19
+Moscow, Russia	44.33	30.76	37.81	35.43	50.64	64.53
+Kota Kinabalu, Malaysia	44.28	7.66	26.68	44.88	22.65	70.36
+Tehran, Iran	44.27	24.04	34.55	43.02	37.6	47.08
+Guangzhou, China	44.26	23.65	34.36	51.52	23.28	113.03
+Quito, Ecuador	44.19	15.48	30.39	41.22	32.27	52.03
+Ankara, Turkey	44.02	8.22	26.81	41.27	31.15	81.87
+Jakarta, Indonesia	43.92	23.31	34.02	48.12	25.73	37.46
+Bursa, Turkey	43.58	6.15	25.59	39.82	28.25	80.74
+Pattaya, Thailand	43.47	18.58	31.51	49.29	22.78	21.27
+Izmir, Turkey	43.47	9.58	27.18	39.73	31.19	66.68
+Tripoli, Libya	43.1	16.61	30.37	41.15	35.23	72.02
+Prague, Czech Republic	43.1	18.08	31.08	37.25	31.64	90.61
+San Salvador, El Salvador	42.9	10.07	27.13	39.23	30.44	42.47
+Sao Paulo, Brazil	42.9	17.67	30.77	32.26	38.42	45.09
+Ostrava, Czech Republic	42.88	11.22	27.66	37.28	26.45	80.58
+Cancun, Mexico	42.67	11.83	27.85	34.88	36.89	52.18
+Budapest, Hungary	42.55	12.28	28	33.75	32.75	60.56
+Ho Chi Minh City, Vietnam	42.46	16.62	30.04	44.13	20.44	25.01
+Antalya, Turkey	42.45	7.07	25.45	38.54	28.97	59.62
+Kuala Lumpur, Malaysia	42.32	17.11	30.2	44.64	22.88	96.65
+Saint Petersburg, Russia	42.26	18.23	30.71	35.12	47.58	57.57
+Bydgoszcz, Poland	42.16	11.33	27.34	33.54	39.02	70.9
+Rabat, Morocco	41.97	12.17	27.65	37.2	27.32	42.31
+Debrecen, Hungary	41.95	8.87	26.05	34.6	27.56	46.57
+Penang, Malaysia	41.75	8.56	25.8	46.24	22.21	91.13
+Lima, Peru	41.7	15.57	29.14	38.53	29.26	53.69
+Brno, Czech Republic	41.65	13.18	27.97	36.67	27.42	93.74
+Porto Alegre, Brazil	41.61	11.14	26.97	35.31	31.73	59.04
+Hanoi, Vietnam	41.49	12.79	27.69	38.59	19.81	30.96
+Manila, Philippines	41.46	14.84	28.67	39.71	25.45	46.51
+Warsaw, Poland	40.75	18.36	29.99	32.51	33.95	85.41
+Brasilia, Brazil	40.69	13.72	27.73	32.32	36.13	68.33
+Minsk, Belarus	40.51	14.91	28.21	33.04	49.59	40.11
+Windhoek, Namibia	40.48	18.65	29.99	35.2	34.7	45.15
+Concepcion, Chile	40.28	10.13	25.79	35.68	25.42	116.58
+Cyberjaya, Selangor, Malaysia	39.83	9.93	25.46	47.72	17.22	122.28
+Poznan, Poland	39.73	13.2	26.98	33.3	32.33	73.67
+Olomouc, Czech Republic	39.71	10.46	25.65	35.43	26.1	92.52
+Constanta, Romania	39.6	6.86	23.86	35.96	31.48	43.08
+Campinas, Brazil	39.54	14.19	27.36	30.31	33.2	61.75
+Gdansk, Poland	39.32	12.6	26.48	30.13	32.02	81.93
+Mexico City, Mexico	39.16	17.05	28.54	36.51	34.31	64.78
+Monterrey, Mexico	39.08	12.62	26.36	37.01	32.06	167.35
+Podgorica, Montenegro	39.04	11.17	25.65	31.13	35.23	55.4
+Petaling Jaya, Malaysia	38.89	11.54	25.75	38.82	21.28	112.18
+Wroclaw, Poland	38.76	15.63	27.65	31.18	31.53	80.07
+Szczecin, Poland	38.68	10.39	25.09	31.11	30.8	73.64
+Dhaka, Bangladesh	38.64	6.58	23.23	35.09	23.28	43.19
+Yekaterinburg, Russia	38.57	11.95	25.78	31.21	41.72	55.76
+Krakow (Cracow), Poland	38.51	15.24	27.33	30.59	31.5	81
+Gdynia, Poland	38.5	11.89	25.71	29.38	31.99	72.57
+Curitiba, Brazil	38.34	10.41	24.91	30.04	29.92	48.79
+Johor Baharu, Malaysia	38.22	11.47	25.36	41.47	19.03	72.36
+Colombo, Sri Lanka	38.12	11.91	25.52	41.99	24.69	26.95
+Cairo, Egypt	37.73	11.02	24.89	33.57	32.13	39.61
+Sofia, Bulgaria	37.6	9.89	24.28	32.35	30.22	65.96
+Johannesburg, South Africa	37.58	15.41	26.92	32.04	33.14	130
+Bucharest, Romania	37.42	11.17	24.8	30.17	34.02	59.96
+Cebu, Philippines	37.38	11.76	25.07	37.9	24.36	29.54
+Queretaro, Mexico	37.31	9.94	24.16	37.19	28.61	86.73
+Lublin, Poland	37.21	11.48	24.84	30.07	22.29	74
+Merida, Mexico	37.16	6.88	22.61	36.85	28.23	42.47
+Casablanca, Morocco	36.93	15.76	26.75	32.52	21.73	56.15
+Tijuana, Mexico	36.91	7.75	22.89	36.28	32.37	79.73
+Florianopolis, Brazil	36.71	9.92	23.84	30.05	28.53	58.6
+Goiania, Brazil	36.71	8.31	23.06	28.32	32.19	41.75
+Yerevan, Armenia	36.66	10.72	24.19	28.56	31.4	34.36
+Belgrade, Serbia	36.55	9.62	23.61	27.52	30.88	47.59
+Belo Horizonte, Brazil	36.36	10.08	23.73	28.61	26.84	50.46
+Lodz, Poland	36.2	11.57	24.36	28.54	30.22	61.21
+Brasov, Romania	36.13	8.74	22.97	30.23	30.37	53.26
+Sarajevo, Bosnia And Herzegovina	35.97	7.93	22.5	30.24	27.26	58.85
+Surabaya, Indonesia	35.96	14.58	25.68	39.25	22.4	32.15
+Alexandria, Egypt	35.85	8.52	22.72	34.74	26.78	43.34
+Sibiu, Romania	35.84	7.64	22.29	31.63	28.43	47.07
+Varna, Bulgaria	35.76	7.21	22.04	31.6	24.91	57.24
+Novosibirsk, Russia	35.71	11.41	24.04	33.08	32.97	56.25
+Puerto Vallarta, Mexico	35.7	12.3	24.45	34.22	27.99	203.85
+Puebla, Mexico	35.63	8.46	22.57	32.03	30.2	65.68
+Tirana, Albania	35.62	9.19	22.92	28.01	30.16	41.16
+Quezon City, Philippines	35.46	7.4	21.98	31.11	21.55	58.14
+Katowice, Poland	35.36	10.95	23.63	28.8	30.05	89.36
+Bali, Indonesia	35.21	12.46	24.28	38.37	21.29	34.17
+Iasi, Romania	34.96	9.09	22.53	28.4	27.72	52.41
+Pretoria, South Africa	34.89	11.86	23.82	30.15	28.19	172.73
+Skopje, Macedonia	34.78	7.92	21.87	28.75	26.45	46.04
+Cluj-napoca, Romania	34.68	9.69	22.67	29.54	26.03	70.28
+Banja Luka, Bosnia And Herzegovina	34.59	6.28	20.99	27.46	25.7	60.43
+Davao, Philippines	34.59	4.9	20.32	34.42	16.67	42.08
+Fortaleza, Brazil	34.51	8.91	22.2	27.48	22.9	36.77
+Cape Town, South Africa	34.18	18.62	26.7	29.06	31.75	126.85
+Bandung, Indonesia	34.12	6.5	20.85	40.56	14.55	30.88
+Tunis, Tunisia	34.07	7.84	21.46	32.95	23.88	39.57
+Arad, Romania	33.48	6.84	20.68	29.12	24.32	73.6
+Durban, South Africa	33.35	12.54	23.35	26.83	30.92	119.96
+Islamabad, Pakistan	33.28	8.44	21.35	30.6	24.98	39.23
+Novi Sad, Serbia	33.24	5.37	19.84	26.82	23.16	56.05
+Timisoara, Romania	33.16	8.14	21.14	26.6	24.87	67.5
+Oradea, Romania	33.06	5.53	19.83	29.7	21.05	48.51
+Plovdiv, Bulgaria	33	6.71	20.36	28.59	24.59	59.83
+Chiang Mai, Thailand	32.92	12.97	23.33	35.76	17.8	55.9
+Port Elizabeth, South Africa	32.6	9.83	21.65	28.49	27.39	101.85
+Bogota, Colombia	32.43	13.19	23.18	27.9	23.31	41.38
+Craiova, Romania	32.25	5.26	19.28	25.87	24.3	46.98
+Algiers, Algeria	32.21	10.21	21.64	33.6	24.13	48.72
+Guadalajara, Mexico	31.77	8.16	20.42	30.67	26.61	64.95
+Gurgaon, India	31.48	9.57	20.95	30.57	24.84	116.66
+Almaty, Kazakhstan	31.31	11.15	21.62	25.2	33.6	61.77
+Damascus, Syria	31.14	9.23	20.61	27.7	28.94	26.07
+Baku, Azerbaijan	30.71	11.53	21.49	26.08	31.1	40.38
+Kathmandu, Nepal	30.7	4.65	18.18	28.46	16.21	27.85
+Medan, Indonesia	30.64	3.65	17.66	32.01	14.99	46.86
+Asuncion, Paraguay	30.35	8.26	19.73	24.74	22.21	51.04
+Odesa, Ukraine	30.34	8.93	20.05	23.83	27.32	28.06
+Valenzuela, Philippines	30.24	3.47	17.38	32.42	14.32	44.02
+Kiev, Ukraine	29.77	13.58	21.99	23.29	23.85	33.79
+Medellin, Colombia	29.62	7	18.75	26.19	21.15	52.56
+Tbilisi, Georgia	29.57	11.39	20.83	25.62	26.96	30.75
+Thane, India	29.31	9.87	19.97	28.86	19.92	56.61
+Nis, Serbia	29.11	4.59	17.33	22.41	23.45	44.65
+Mumbai, India	28.93	18.59	23.96	30.59	20.41	83.25
+Dnipropetrovsk, Ukraine	28.81	7.04	18.35	22.69	21.98	30.03
+Delhi, India	28.74	9.28	19.39	27.44	21.23	85.34
+Lahore, Pakistan	28.67	6.03	17.79	26.74	21.79	45.55
+Karachi, Pakistan	28.59	5.95	17.71	27.52	20.82	50.76
+Kharkiv, Ukraine	28.42	8.95	19.06	22.27	21.17	24.82
+Bitola, Macedonia	28.05	4.09	16.53	24.58	17	54.67
+Pristina, Kosovo (Disputed Territory)	27.43	8.53	18.35	24.21	20.46	66.18
+Cali, Colombia	26.68	6.61	17.03	23.32	20.13	46.51
+Pune, India	26.55	7.22	17.26	28.54	17.23	109.11
+Ludhiana, India	26.44	4.65	15.97	25.3	18.66	60.37
+Nasik, India	26.33	4.76	15.96	28.67	16.27	56.72
+Chandigarh, India	26.18	6.28	16.62	27.63	17.16	65.59
+Bhopal, India	26.09	3.52	15.24	22.43	15.43	57.32
+Vadodara, India	26.01	4.41	15.63	28.67	15.79	72.05
+Chisinau, Moldova	25.93	7.23	16.94	20.63	17.67	32.11
+Bangalore, India	25.9	8.43	17.5	27.14	15.04	113.87
+Lviv, Ukraine	25.89	8.57	17.57	21.73	16.65	24.91
+Noida, India	25.7	7	16.71	24.59	20.1	85.34
+Jalandhar, India	25.57	3.55	14.99	24.21	24.49	50.11
+Jaipur, India	25.47	4.48	15.39	26.38	13.46	74.04
+Navi Mumbai, India	25.42	9.23	17.64	24.92	20.61	104.61
+Goa, India	25.23	6.92	16.43	25.19	18.27	81.65
+Visakhapatnam, India	25.15	4.71	15.33	26.92	11.99	46.45
+Surat, India	25.02	4.23	15.03	25.36	17.55	87.11
+Chennai, India	24.89	6.7	16.15	26.86	14.41	100.59
+Lucknow (Lakhnau), India	24.85	4.99	15.31	25.49	14.62	90.48
+Kolkata, India	24.8	6.04	15.79	25.57	16.66	80.59
+Nagpur, India	24.59	4.1	14.74	26.63	16.78	74.31
+Mysore, India	24.57	4.59	14.97	31.14	11.69	42.44
+Hyderabad, India	24.06	5.73	15.25	26.32	13.87	94.58
+Indore, India	24.04	4.09	14.45	23.67	17.07	49.18
+Guwahati, India	24	4.02	14.4	26.86	14.24	53.25
+Vijayawada, India	23.85	4.34	14.47	24.69	12.24	62.7
+Ahmedabad, India	22.7	4.85	14.12	23.75	14.48	79.06
+Bhubaneswar, India	22.45	4.06	13.61	23.22	13.25	78.05
+Kochi, India	22.06	5.33	14.02	23.3	11.93	90.98
+Madurai, India	21.82	4.3	13.4	22.12	11.7	89.9
+Coimbatore, India	21.07	4.35	13.04	21.92	14.12	67.71
+Thiruvananthapuram, India	20.59	3.64	12.44	21.46	12.69	86.87

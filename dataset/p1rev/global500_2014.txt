@@ -1,0 +1,51 @@
+﻿2014 Ranking	2013 Ranking	Company	Country	Revenues ($ millions)	Profits ($ millions)
+1	2	Walmart-Stores	United States	476294	16022
+2	1	Royal Dutch Shell	Netherlands	459599	16371
+3	4	Sinopec Group	China	457201	8932
+4	5	China National Petroleum	China	432007	18504
+5	3	Exxon Mobil	United States	407666	32580
+6	6	BP	United Kingdom	396217	23451
+7	7	State Grid	China	333386	7982
+8	9	Volkswagen	Germany	261539	12071
+9		Toyota Motor	Japan	256454	18198
+10	8	Glencore	Switzerland	232694	-7402
+11	10	Total	France	227882	11204
+12	11	Chevron	United States	220356	21423
+13	14	Samsung Electronics	South Korea	208938	27245
+14	18	Berkshire Hathaway	United States	182150	19476
+15	19	Apple	United States	170910	37037
+16	20	AXA	France	165893	5950
+17	21	Gazprom	Russia	165016	35769
+18	15	E.ON	Germany	162560	2843
+19	16	Phillips 66	United States	161175	3726
+20	23	Daimler	Germany	156628	9083
+21	22	General Motors	United States	155427	5346
+22	17	ENI	Italy	154108	6850
+23	13	Japan Post Holdings	Japan	152125	4782
+24	26	Exor Group	Italy	150996	2768
+25	29	Industrial & Commercial Bank of China	China	148802	42718
+26	28	Ford Motor	United States	146917	7155
+27	24	General Electric	United States	146231	13057
+28	25	Petrobas	Brazil	141462	11094
+29	42	McKesson	United States	138030	1263
+30	27	Valero Energy	United States	137758	2720
+31	31	Allianz	Germany	134636	7960
+32	30	Hon Hai Precision Industry		133161	3594
+33	61	Société Générale	France	132711	2887
+34	34	AT&T	United States	128752	18249
+35	40	CVS Caremark	United States	126761	4592
+36	36	Pemex	Mexican	125943	-13302
+37	35	Fannie Mae	United States	125696	83963
+38	50	China Construction Bank	China	125397	34912
+39	51	UnitedHealth Group	United States	122489	5625
+40	41	BNP Paribas	France	121939	6414
+41	38	PDVSA	Venezuela	120979	12933
+42	48	Verizon Communications	United States	120550	11497
+43	46	Lukoil	Russia	119118	7832
+44	37	GDF Suez	France	118551	-12331
+45	45	Honda Motor	Japan	118210	5730
+46	99	Rosneft Oil	Russia	117079	17111
+47	64	Agricultural Bank of China	China	115392	27050
+48	49	Assicurazioni Generali	Italy	115224	2542
+49	33	ING Group	Netherlands	114295	6076
+50	43	Hewlett-Packard	United States	112298	5113
