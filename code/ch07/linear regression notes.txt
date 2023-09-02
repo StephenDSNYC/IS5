@@ -1,0 +1,18 @@
+一个点的横(x)坐标是这个点距离纵(y)轴的水平(横向)距离。
+
+一个点的纵(y)坐标是这个点距离横(x)轴的竖直(纵向)距离。
+
+yhat = b0 + b1 * x
+
+(yhat-ybar)/sy = r   * (x-xbar) / sx)
+
+y = yhat + residual (e: error)
+y = b0 + b1 * x + e
+
+
+
+assumptions:
+1. e is not associated with x.  sometimes we call e the error term, which is not something we can control as x.
+2. e is assumed to be a random noise.  (can be checked in the residual plot)
+*3. no z
+
